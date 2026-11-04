@@ -1,7 +1,6 @@
 {
     "name": "nhanaz-plugins/ecoapi-score",
     "description": "Generic ScoreHud tags backed by EcoAPI providers",
-    "version": "1.0.0",
     "type": "pocketmine-plugin",
     "license": "GPL-3.0-or-later",
     "require-dev": {
