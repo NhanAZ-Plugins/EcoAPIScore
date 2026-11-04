@@ -67,6 +67,7 @@ jobs:
           output: build
           phpstan: max
           phpstan-server: .devtools-dependencies/axolotl-pm
+          phpstan-paths: stubs
 
       - name: Verify PHAR
         shell: bash
