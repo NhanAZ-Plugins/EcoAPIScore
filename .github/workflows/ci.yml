@@ -60,7 +60,7 @@ jobs:
 
       - name: Build PHAR with DevTools
         id: build
-        uses: NhanAZ/DevTools@8b7db655845dc5d9e5e51b26a5d0815d5f7e5323 # v2
+        uses: AxolotlBucketLabs/DevTools@v3 # v3.0.0
         with:
           project: .
           virions: virions
